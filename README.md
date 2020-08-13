@@ -1,2 +1,2 @@
 # Proffy aulas online
- Primeiro repositorio. Site criado durando a segunda edição da NLW, juntamente com o professor.
+ Meu primeiro repositório feito. O projeto contigo será de um site para aulas online, criado durante a segunda edição da Next Level Week (NLW), juntamente com o professor.
